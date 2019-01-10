@@ -44,3 +44,6 @@ dist
 
 #mock db
 db.json
+
+package-lock.json
+
